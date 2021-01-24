@@ -77,10 +77,3 @@ h6{
 .mobileDisplay {
     display: none;
 }
-@media (max-width: 600px) {
-    .mobileDisplay {
-      padding: 80px 20px;
-      display: block;
-      line-height: 1.7;
-    } 
-}     
